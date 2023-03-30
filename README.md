@@ -1,6 +1,6 @@
 # Pima-Indians-Diabetes-Dataset
 
-You are given the Pima Indians Diabetes Database as a csv file. This data-set is originally
+Given the Pima Indians Diabetes Database as a csv file. This data-set is originally
 from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective is to
 predict based on diagnostic measurements whether a patient has diabetes. Several constraints
 were placed on the selection of these instances from a larger database. In particular, all patients
