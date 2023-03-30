@@ -34,3 +34,10 @@ The Data_Preprocessing code:
 * Caluculates and print the covarience matrix after dimensionality reduction.
 
 
+
+# Input Dataset
+
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
+# Output
+
