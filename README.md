@@ -46,5 +46,17 @@ Normalization and Standarization of each column :
 
 ![image](https://user-images.githubusercontent.com/119813195/228903765-f0c57206-5122-45aa-9fd2-5bb024b452d8.png)
 
+EigenValue analysis Of the Synetheic Data:
+
+![image](https://user-images.githubusercontent.com/119813195/228904381-b8c3c9f0-ba9d-429c-82e6-375a3c1b0e90.png)
+
+PCA on the main Dataset :
+
+![image](https://user-images.githubusercontent.com/119813195/228904878-2c3b2b03-8870-465d-95a3-f3ce00957e47.png)
+
+![image](https://user-images.githubusercontent.com/119813195/228905068-1dc33a18-6e3f-473e-8ac2-085b34758bdc.png)
+
+![image](https://user-images.githubusercontent.com/119813195/228905270-62cfc94f-c643-4983-b594-95955930a76c.png)
+
 
 
