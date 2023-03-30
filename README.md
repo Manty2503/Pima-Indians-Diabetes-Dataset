@@ -16,3 +16,21 @@ It contains following 9 attributes.
 * pedi: Diabetes pedigree function
 * Age: Age (years)
 * class: Class variable (0 or 1)
+
+
+The Data_Visualization code:
+* Loads the csv file into the Spyder Enviornment.
+* Calculates and print the various statistical features of each attribute like Mean, Median, Mode etc.
+* Calculates and print the correlation cofficient between the target attribute and various columns
+* Plots the scatter plot between 2 different attributes.
+
+
+The Data_Preprocessing code:
+* Imports PCA from sklearn.
+* Loads the csv file into the Spyder Enviornment.
+* Normalization and standarization of each and every attribute except the target class.
+* Then generates a syntheic data inoder to perform Eigenvalue and EigenVector decomposition.
+* Applys PCA on the given Dataset in oder to reduce the dimensions of the data.
+* Caluculates and print the covarience matrix after dimensionality reduction.
+
+
