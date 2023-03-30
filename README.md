@@ -6,18 +6,6 @@ predict based on diagnostic measurements whether a patient has diabetes. Several
 were placed on the selection of these instances from a larger database. In particular, all patients
 here are females with at least 21 years old of Pima Indian heritage.  
 
-It contains following 9 attributes.
-* pregs: Number of times pregnant
-* plas: Plasma glucose concentration 2 hours in an oral glucose tolerance test*
-* pres: Diastolic blood pressure (mm Hg)
-* skin: Triceps skin fold thickness (mm)
-* test: 2-Hour serum insulin (mu U/mL)
-* BMI: Body mass index (weight in kg/(height in m)^2)
-* pedi: Diabetes pedigree function
-* Age: Age (years)
-* class: Class variable (0 or 1)
-
-
 The Data_Visualization code:
 * Loads the csv file into the Spyder Enviornment.
 * Calculates and print the various statistical features of each attribute like Mean, Median, Mode etc.
@@ -44,12 +32,19 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 # Output
 
+Statistical Analysis:
+
 ![image](https://user-images.githubusercontent.com/119813195/228886486-d491a86d-e2ad-44b8-92cc-7e7956993a94.png)
 
 ![image](https://user-images.githubusercontent.com/119813195/228887122-2090b7e2-096a-4c4e-85af-d6b812713b7b.png)
 
 ![image](https://user-images.githubusercontent.com/119813195/228887163-7093b32a-0db9-4776-b969-d652ea6be8a4.png)
 
-Similarily we wil have all the other statistical parameters examined by printing and plotting.
+Normalization and Standarization of each column :
+
+![image](https://user-images.githubusercontent.com/119813195/228903363-8973ceb1-29fe-49df-8a4b-3c8f91ef15e4.png)
+
+![image](https://user-images.githubusercontent.com/119813195/228903765-f0c57206-5122-45aa-9fd2-5bb024b452d8.png)
+
 
 
