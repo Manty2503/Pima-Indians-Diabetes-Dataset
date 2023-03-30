@@ -39,5 +39,17 @@ The Data_Preprocessing code:
 
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
+![image](https://user-images.githubusercontent.com/119813195/228885870-124eceb8-0e4d-4381-992f-e567e7ffcfb8.png)
+
+
 # Output
+
+![image](https://user-images.githubusercontent.com/119813195/228886486-d491a86d-e2ad-44b8-92cc-7e7956993a94.png)
+
+![image](https://user-images.githubusercontent.com/119813195/228887122-2090b7e2-096a-4c4e-85af-d6b812713b7b.png)
+
+![image](https://user-images.githubusercontent.com/119813195/228887163-7093b32a-0db9-4776-b969-d652ea6be8a4.png)
+
+Similarily we wil have all the other statistical parameters examined by printing and plotting.
+
 
